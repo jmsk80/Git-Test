@@ -3,3 +3,5 @@ branch
 develop branch
 
 test v1
+
+merge 실패후 롤백은?
