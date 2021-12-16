@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 master v1
 master v2
 test v1
+=======
+branch
+
+develop branch
+
+test v1
+
+merge 실패후 롤백은?
+>>>>>>> test
+
+1217 수정.
